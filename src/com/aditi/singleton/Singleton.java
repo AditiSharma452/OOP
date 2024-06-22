@@ -1,5 +1,7 @@
 package com.aditi.singleton;
 
+import com.aditi.access.A;
+
 public class Singleton {
     private Singleton () {
 
